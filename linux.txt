@@ -3,3 +3,12 @@
 https://repo.protonvpn.com/debian/dists/stable/main/binary-all/protonvpn-stable-release_1.0.3_all.deb
 
 # linux mint: https://linuxmint.com/download.php
+
+
+# qubes: https://www.qubes-os.org/downloads/
+https://ftp.qubes-os.org/iso/Qubes-R4.1.1-x86_64.iso
+https://ftp.qubes-os.org/iso/Qubes-R4.1.1-x86_64.iso.DIGESTS
+https://ftp.qubes-os.org/iso/Qubes-R4.1.1-x86_64.iso.asc
+
+
+
