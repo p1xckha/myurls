@@ -4,4 +4,7 @@ https://protonvpn.com/download/ProtonVPN_win_v2.0.6.exe
 # system
 https://www2.aomeisoftware.com/download/adb/AOMEIBackupperStd.exe
 
+# nikon coolpix a1000: https://downloadcenter.nikonimglib.com/en/download/fw/441.html
+https://download.nikonimglib.com/archive5/Krywz00qZ6W6055Novk27Sj77f15/F-A1000-V14W.exe
+
 
