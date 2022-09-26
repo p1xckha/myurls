@@ -1,6 +1,9 @@
 # internet
 https://protonvpn.com/download/ProtonVPN_win_v2.0.6.exe
 
+https://www.torproject.org/dist/torbrowser/11.5.2/torbrowser-install-win64-11.5.2_en-US.exe
+https://www.torproject.org/dist/torbrowser/11.5.2/torbrowser-install-win64-11.5.2_en-US.exe.asc
+
 # system
 https://www2.aomeisoftware.com/download/adb/AOMEIBackupperStd.exe
 
