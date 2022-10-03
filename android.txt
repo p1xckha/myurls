@@ -7,4 +7,7 @@ https://dlcdnets.asus.com/pub/ASUS/ZenFone/ZC520KL/UL-ASUS_X00HD-WW-15.2016.1909
 https://f-droid.org/F-Droid.apk
 https://f-droid.org/F-Droid.apk.asc
 
+https://f-droid.org/repo/com.github.axet.bookreader_416.apk
+https://f-droid.org/repo/com.github.axet.bookreader_416.apk.asc
+
 
