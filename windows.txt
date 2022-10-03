@@ -7,7 +7,7 @@ https://www.torproject.org/dist/torbrowser/11.5.2/torbrowser-install-win64-11.5.
 # system
 https://www2.aomeisoftware.com/download/adb/AOMEIBackupperStd.exe
 
-#bios
+#bios Vostro 3500 (BNVRYJ3)
 https://dl.dell.com/FOLDER08878857M/1/Inspiron_3501_Vostro_3400_3401_3500_3501_1.18.0.exe
 
 
