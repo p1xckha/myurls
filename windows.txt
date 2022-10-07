@@ -11,6 +11,8 @@ https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 #bios Vostro 3500 (BNVRYJ3)
 https://dl.dell.com/FOLDER08878857M/1/Inspiron_3501_Vostro_3400_3401_3500_3501_1.18.0.exe
 
+#bios Inspiron 15 Gaming 7567(C3Y5L22)
+https://dl.dell.com/FOLDER07782958M/1/Inspiron_14_15_7000_Gaming_1.15.0.exe
 
 # nikon coolpix a1000: https://downloadcenter.nikonimglib.com/en/download/fw/441.html
 https://download.nikonimglib.com/archive5/Krywz00qZ6W6055Novk27Sj77f15/F-A1000-V14W.exe
