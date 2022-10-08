@@ -22,6 +22,6 @@ https://dl.dell.com/utility/DSS_UTIL_WIN_R259999.EXE
 https://download.nikonimglib.com/archive5/Krywz00qZ6W6055Novk27Sj77f15/F-A1000-V14W.exe
 
 # media
-https://jp.leawosoft.net/download/leawo_com/ltmcp_setup.exe
+https://jp.leawosoft.net/download/leawo_com/online_blurayplayer_setup.exe
 
 
