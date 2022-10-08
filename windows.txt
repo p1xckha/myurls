@@ -17,4 +17,7 @@ https://dl.dell.com/FOLDER07782958M/1/Inspiron_14_15_7000_Gaming_1.15.0.exe
 # nikon coolpix a1000: https://downloadcenter.nikonimglib.com/en/download/fw/441.html
 https://download.nikonimglib.com/archive5/Krywz00qZ6W6055Novk27Sj77f15/F-A1000-V14W.exe
 
+# media
+https://jp.leawosoft.net/download/leawo_com/ltmcp_setup.exe
+
 
