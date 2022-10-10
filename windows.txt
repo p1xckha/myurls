@@ -98,6 +98,9 @@ https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.6/
 # libreoffice: https://ja.libreoffice.org/
 https://libreoffice.astra.in.ua/libreoffice/stable/7.4.1/win/x86_64/LibreOffice_7.4.1_Win_x64.msi
 
+# atom: https://atom.io/
+https://atom-installer.github.com/v1.60.0/AtomSetup-x64.exe?s=1646703880&ext=.exe
+
 #################################
 # security
 #################################
@@ -158,3 +161,8 @@ https://github.com/audacity/audacity/releases/download/Audacity-3.2.1/audacity-w
 # calibre: https://calibre-ebook.com/download_windows
 https://download.calibre-ebook.com/6.6.1/calibre-64bit-6.6.1.msi
 
+# rexifer
+https://ftp.vector.co.jp/73/61/2327/rexifer21200.zip
+
+# advanced english dictionary: https://www.filehorse.com/download-advanced-english-dictionary/download/#google_vignette
+https://dl2.filehorse.com/win/office-and-business-tools/advanced-english-dictionary/AdvancedEnglishDictionary_2016.424.130.AppxBundle?st=gfokHwD3rAU4Gjtp3h654A&e=1665491921&fn=AdvancedEnglishDictionary_2016.424.130.AppxBundle
