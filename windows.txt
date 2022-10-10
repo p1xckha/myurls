@@ -36,6 +36,10 @@ https://dl.dell.com/FOLDER07782958M/1/Inspiron_14_15_7000_Gaming_1.15.0.exe
 #https://www.dell.com/support/home/en-us/product-support/product/studio-1555/drivers
 https://dl.dell.com/utility/DSS_UTIL_WIN_R259999.EXE
 
+# intel: https://www.intel.co.jp/content/www/jp/ja/download/15667/intel-rapid-storage-technology-intel-rst-user-interface-and-driver.html
+https://downloadmirror.intel.com/723575/SetupRST.exe
+https://downloadmirror.intel.com/723575/f6flpy-x64.zip
+
 # nikon coolpix a1000: https://downloadcenter.nikonimglib.com/en/download/fw/441.html
 https://download.nikonimglib.com/archive5/Krywz00qZ6W6055Novk27Sj77f15/F-A1000-V14W.exe
 
@@ -70,6 +74,9 @@ https://sdlc-esd.oracle.com/ESD6/JSCDL/jdk/8u341-b10/424b9da4b48848379167015dcc2
 # jdk: https://www.oracle.com/java/technologies/downloads/#jdk19-windows
 https://download.oracle.com/java/19/latest/jdk-19_windows-x64_bin.exe
 
+# .NET: https://dotnet.microsoft.com/ja-jp/download/dotnet/6.0
+https://download.visualstudio.microsoft.com/download/pr/cebf08ce-ecf1-4439-8a0a-d81b3a4cad12/674ba293b83bdc9b1e00ddfa3ab82f10/dotnet-sdk-6.0.401-win-x64.exe
+https://download.visualstudio.microsoft.com/download/pr/98dbe241-8b77-4be0-b130-a5fb6af8d724/27b655adce6250da42be9440abe847a2/aspnetcore-runtime-6.0.9-win-x64.exe
 
 #################################
 # security
