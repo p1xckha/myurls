@@ -9,6 +9,8 @@ https://protonvpn.com/download/ProtonVPN_win_v2.0.6.exe
 https://www.torproject.org/dist/torbrowser/11.5.2/torbrowser-install-win64-11.5.2_en-US.exe
 https://www.torproject.org/dist/torbrowser/11.5.2/torbrowser-install-win64-11.5.2_en-US.exe.asc
 
+# lynx: https://lynxsoft.net/downloads/
+https://lynxsoft.drivehq.com/downloads/ULv13.exe
 
 ##################################
 # system
@@ -51,6 +53,11 @@ https://lib.iodata.jp/lib/soft/w/wnsx300fr_f103.exe
 # quaderno: http://www.fmworld.net/digital-paper/support/download/201812/dppapp/
 http://www.fmworld.net/download/digital-paper/app/DigitalPaperPCApp_1.1.1.09250.exe
 
+# potableapp: https://portableapps.com/ja
+https://portableapps.com/redir2/?a=PortableApps.comPlatform&s=s&d=pa&f=PortableApps.com_Platform_Setup_22.0.1.paf.exe
+
+# cpuz: https://www.cpuid.com/softwares/cpu-z.html
+https://download.cpuid.com/cpu-z/cpu-z_2.02-en.exe
 
 ################################
 # development
@@ -127,4 +134,8 @@ https://download.imgburn.com/SetupImgBurn_2.5.8.0.exe
 # dvdfab https://dvdfab.co.jp/all-in-one.htm?trackid=headmenu2
 https://dl.dvdfab.cn/download/58_12089_8d01f222/dvdfab12_online_12089.exe
 
+
+# audacity: https://www.audacityteam.org/
+# SHA256 Checksum: 35a318c716f2579bb81229c04375bc21cac878ad011d5d66d227f236e7d73ce6
+https://github.com/audacity/audacity/releases/download/Audacity-3.2.1/audacity-win-3.2.1-64bit.exe
 
