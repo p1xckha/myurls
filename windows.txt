@@ -44,6 +44,17 @@ https://lib.iodata.jp/lib/soft/m/MagicalFinder_430.exe
 https://lib.iodata.jp/lib/soft/w/wnsx300fr_f103.exe
 
 
+################################
+# development
+###############################
+
+http://www.codeblocks.org/downloads/binaries/#imagesoswindows48pnglogo-microsoft-windows
+https://download.fosshub.com/Protected/expiretime=1665420110;badurl=aHR0cHM6Ly93d3cuZm9zc2h1Yi5jb20vQ29kZS1CbG9ja3MuaHRtbA==/9350d87d15aed30225d3863751090600dc6eabd7e46c16301e3934f773611993/5b85805cf9ee5a5c3e979f1b/5e80624f7d74bb810359a46c/codeblocks-20.03mingw-setup.exe
+
+# anaconda: https://www.anaconda.com/products/distribution/start-coding-immediately
+https://repo.anaconda.com/archive/Anaconda3-2022.05-Windows-x86_64.exe
+
+
 #################################
 # security
 #################################
