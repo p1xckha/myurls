@@ -85,6 +85,10 @@ https://download.oracle.com/java/19/latest/jdk-19_windows-x64_bin.exe
 https://download.visualstudio.microsoft.com/download/pr/cebf08ce-ecf1-4439-8a0a-d81b3a4cad12/674ba293b83bdc9b1e00ddfa3ab82f10/dotnet-sdk-6.0.401-win-x64.exe
 https://download.visualstudio.microsoft.com/download/pr/98dbe241-8b77-4be0-b130-a5fb6af8d724/27b655adce6250da42be9440abe847a2/aspnetcore-runtime-6.0.9-win-x64.exe
 
+# notepad++: https://notepad-plus-plus.org/downloads/v8.4.6/
+https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.6/npp.8.4.6.Installer.x64.exe
+
+
 #################################
 # security
 #################################
