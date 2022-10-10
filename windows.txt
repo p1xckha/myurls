@@ -12,6 +12,13 @@ https://www.torproject.org/dist/torbrowser/11.5.2/torbrowser-install-win64-11.5.
 # lynx: https://lynxsoft.net/downloads/
 https://lynxsoft.drivehq.com/downloads/ULv13.exe
 
+# thunderbird: https://www.thunderbird.net/ja/
+https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.3.2/win64/ja/Thunderbird%20Setup%20102.3.2.exe
+
+# firefox: https://www.mozilla.org/ja/firefox/all/#product-desktop-release
+https://cdn.stubdownloader.services.mozilla.com/builds/firefox-latest-ssl/ja/win64/5f6695c5bae6f78865dbf57d8f65b36ea8c99203a5d06055a14d93a9045ca023/Firefox%20Setup%20105.0.3.exe
+
+
 ##################################
 # system
 #################################
@@ -110,6 +117,9 @@ https://launchpad.net/veracrypt/trunk/1.25.9/+download/VeraCrypt%20Setup%201.25.
 
 # wireshark: https://www.wireshark.org/download.html
 https://1.as.dl.wireshark.org/win64/Wireshark-win64-4.0.0.exe
+
+# avast: https://www.avast.co.jp/free-antivirus-download#pc
+https://bits.avcdn.net/productfamily_ANTIVIRUS/insttype_FREE/platform_WIN/installertype_ONLINE/build_RELEASE/cookie_mmm_ava_003_999_b6j_m
 
 
 ##################################
