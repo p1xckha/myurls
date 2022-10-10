@@ -44,6 +44,10 @@ https://lib.iodata.jp/lib/soft/m/MagicalFinder_430.exe
 https://lib.iodata.jp/lib/soft/w/wnsx300fr_f103.exe
 
 
+# quaderno: http://www.fmworld.net/digital-paper/support/download/201812/dppapp/
+http://www.fmworld.net/download/digital-paper/app/DigitalPaperPCApp_1.1.1.09250.exe
+
+
 ################################
 # development
 ###############################
@@ -53,6 +57,12 @@ https://download.fosshub.com/Protected/expiretime=1665420110;badurl=aHR0cHM6Ly93
 
 # anaconda: https://www.anaconda.com/products/distribution/start-coding-immediately
 https://repo.anaconda.com/archive/Anaconda3-2022.05-Windows-x86_64.exe
+
+# rstudio: https://cran.rstudio.com/
+https://cran.rstudio.com/bin/windows/base/R-4.2.1-win.exe
+
+# visualstudio: https://code.visualstudio.com/download
+https://az764295.vo.msecnd.net/stable/64bbfbf67ada9953918d72e1df2f4d8e537d340e/VSCodeUserSetup-ia32-1.72.0.exe
 
 
 #################################
