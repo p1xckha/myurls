@@ -95,6 +95,8 @@ https://download.visualstudio.microsoft.com/download/pr/98dbe241-8b77-4be0-b130-
 # notepad++: https://notepad-plus-plus.org/downloads/v8.4.6/
 https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.6/npp.8.4.6.Installer.x64.exe
 
+# libreoffice: https://ja.libreoffice.org/
+https://libreoffice.astra.in.ua/libreoffice/stable/7.4.1/win/x86_64/LibreOffice_7.4.1_Win_x64.msi
 
 #################################
 # security
@@ -148,8 +150,11 @@ https://download.imgburn.com/SetupImgBurn_2.5.8.0.exe
 # dvdfab https://dvdfab.co.jp/all-in-one.htm?trackid=headmenu2
 https://dl.dvdfab.cn/download/58_12089_8d01f222/dvdfab12_online_12089.exe
 
-
 # audacity: https://www.audacityteam.org/
 # SHA256 Checksum: 35a318c716f2579bb81229c04375bc21cac878ad011d5d66d227f236e7d73ce6
 https://github.com/audacity/audacity/releases/download/Audacity-3.2.1/audacity-win-3.2.1-64bit.exe
+
+
+# calibre: https://calibre-ebook.com/download_windows
+https://download.calibre-ebook.com/6.6.1/calibre-64bit-6.6.1.msi
 
