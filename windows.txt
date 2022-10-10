@@ -8,6 +8,9 @@ https://www.torproject.org/dist/torbrowser/11.5.2/torbrowser-install-win64-11.5.
 https://www2.aomeisoftware.com/download/adb/AOMEIBackupperStd.exe
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 
+# virtual box https://www.oracle.com/jp/virtualization/technologies/vm/downloads/virtualbox-downloads.html
+https://download.virtualbox.org/virtualbox/6.1.14/VirtualBox-6.1.14-140239-Win.exe
+
 #bios Vostro 3500 (BNVRYJ3)
 https://dl.dell.com/FOLDER08878857M/1/Inspiron_3501_Vostro_3400_3401_3500_3501_1.18.0.exe
 
@@ -27,5 +30,9 @@ https://lib.iodata.jp/lib/soft/w/wnsx300fr_f103.exe
 
 # media
 https://jp.leawosoft.net/download/leawo_com/online_blurayplayer_setup.exe
+https://download.betanews.com/download/1212419334-2/burnaware_free_15.9.exe
+https://ftp.kr.freebsd.org/pub/gimp/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe
+
+
 
 
