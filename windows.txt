@@ -21,6 +21,10 @@ https://dl.dell.com/utility/DSS_UTIL_WIN_R259999.EXE
 # nikon coolpix a1000: https://downloadcenter.nikonimglib.com/en/download/fw/441.html
 https://download.nikonimglib.com/archive5/Krywz00qZ6W6055Novk27Sj77f15/F-A1000-V14W.exe
 
+# router: https://www.iodata.jp/lib/software/w/2169.htm#Windows%2010
+https://lib.iodata.jp/lib/soft/m/MagicalFinder_430.exe
+https://lib.iodata.jp/lib/soft/w/wnsx300fr_f103.exe
+
 # media
 https://jp.leawosoft.net/download/leawo_com/online_blurayplayer_setup.exe
 
