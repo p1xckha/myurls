@@ -1,15 +1,30 @@
+############################## 
 # internet
+###############################
+
+# protonvpn
 https://protonvpn.com/download/ProtonVPN_win_v2.0.6.exe
 
+# torbrowser
 https://www.torproject.org/dist/torbrowser/11.5.2/torbrowser-install-win64-11.5.2_en-US.exe
 https://www.torproject.org/dist/torbrowser/11.5.2/torbrowser-install-win64-11.5.2_en-US.exe.asc
 
+
+##################################
 # system
+#################################
+
+# aomei
 https://www2.aomeisoftware.com/download/adb/AOMEIBackupperStd.exe
+
+# hosts file
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 
 # virtual box https://www.oracle.com/jp/virtualization/technologies/vm/downloads/virtualbox-downloads.html
 https://download.virtualbox.org/virtualbox/6.1.14/VirtualBox-6.1.14-140239-Win.exe
+
+# vmplayer: https://www.vmware.com/jp/products/workstation-player/workstation-player-evaluation.html
+https://download3.vmware.com/software/WKST-PLAYER-1624/VMware-player-full-16.2.4-20089737.exe
 
 #bios Vostro 3500 (BNVRYJ3)
 https://dl.dell.com/FOLDER08878857M/1/Inspiron_3501_Vostro_3400_3401_3500_3501_1.18.0.exe
@@ -28,10 +43,53 @@ https://download.nikonimglib.com/archive5/Krywz00qZ6W6055Novk27Sj77f15/F-A1000-V
 https://lib.iodata.jp/lib/soft/m/MagicalFinder_430.exe
 https://lib.iodata.jp/lib/soft/w/wnsx300fr_f103.exe
 
+
+#################################
+# security
+#################################
+
+# keepassxc: https://keepassxc.org/
+https://github.com/keepassxreboot/keepassxc/releases/download/2.7.1/KeePassXC-2.7.1-Win64.msi
+https://github.com/keepassxreboot/keepassxc/releases/download/2.7.1/KeePassXC-2.7.1-Win64.msi.DIGEST
+https://github.com/keepassxreboot/keepassxc/releases/download/2.7.1/KeePassXC-2.7.1-Win64.msi.sig
+
+# vc_redist x64: https://learn.microsoft.com/ja-jp/cpp/windows/latest-supported-vc-redist?view=msvc-170
+https://download.visualstudio.microsoft.com/download/pr/7331f052-6c2d-4890-8041-8058fee5fb0f/CE6593A1520591E7DEA2B93FD03116E3FC3B3821A0525322B0A430FAA6B3C0B4/VC_redist.x64.exe
+
+# gpg4win: https://www.gpg4win.org/get-gpg4win.html
+https://files.gpg4win.org/gpg4win-4.0.3.exe
+
+# veracrypt: https://www.veracrypt.fr/en/Downloads.html
+https://launchpad.net/veracrypt/trunk/1.25.9/+download/VeraCrypt%20Setup%201.25.9.exe
+https://launchpad.net/veracrypt/trunk/1.25.9/+download/VeraCrypt%20Setup%201.25.9.exe.sig
+
+# wireshark: https://www.wireshark.org/download.html
+https://1.as.dl.wireshark.org/win64/Wireshark-win64-4.0.0.exe
+
+
+##################################
 # media
+##################################
+
 https://jp.leawosoft.net/download/leawo_com/online_blurayplayer_setup.exe
 https://download.betanews.com/download/1212419334-2/burnaware_free_15.9.exe
 https://ftp.kr.freebsd.org/pub/gimp/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe
+
+# vlc: https://www.videolan.org/vlc/download-windows.html
+# SHA-256 checksum: 514b0bf5ac82e7132ecac31da64c38fc85cd0ff76e2dcbcf904b6e2028c6749f
+https://get.videolan.org/vlc/3.0.17.4/win32/vlc-3.0.17.4-win32.exe
+
+# inkscape: https://inkscape.org/release/
+https://media.inkscape.org/dl/resources/file/inkscape-1.2.1_2022-07-14_9c6d41e410-x64_5o3Ir4D.exe
+
+# imgburn: https://www.imgburn.com/index.php?act=download
+# CRC32: 1AF3CD36
+# MD5: 4BF2B8F4B46385BFDA4D65E423CFB868
+# SHA-1: 6A3D20796E1FCD4169D5D339AF6E491DCEA3367C 
+https://files2.dddload.net/static/Setup_ImgBurn_2.5.8.0.exe
+https://download.imgburn.com/SetupImgBurn_2.5.8.0.exe 
+
+
 
 
 
