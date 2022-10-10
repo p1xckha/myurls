@@ -9,8 +9,9 @@ https://protonvpn.com/download/ProtonVPN_win_v2.0.6.exe
 https://www.torproject.org/dist/torbrowser/11.5.2/torbrowser-install-win64-11.5.2_en-US.exe
 https://www.torproject.org/dist/torbrowser/11.5.2/torbrowser-install-win64-11.5.2_en-US.exe.asc
 
-# lynx: https://lynxsoft.net/downloads/
-https://lynxsoft.drivehq.com/downloads/ULv13.exe
+# lynx: https://osdn.net/projects/lynx-win32-pata/downloads/68338/Lynx289dev19THjp.exe/
+https://free.nchc.org.tw/osdn//lynx-win32-pata/68338/Lynx289dev19THjp.exe
+
 
 # thunderbird: https://www.thunderbird.net/ja/
 https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/102.3.2/win64/ja/Thunderbird%20Setup%20102.3.2.exe
@@ -70,8 +71,10 @@ https://download.cpuid.com/cpu-z/cpu-z_2.02-en.exe
 # development
 ###############################
 
-http://www.codeblocks.org/downloads/binaries/#imagesoswindows48pnglogo-microsoft-windows
-https://download.fosshub.com/Protected/expiretime=1665420110;badurl=aHR0cHM6Ly93d3cuZm9zc2h1Yi5jb20vQ29kZS1CbG9ja3MuaHRtbA==/9350d87d15aed30225d3863751090600dc6eabd7e46c16301e3934f773611993/5b85805cf9ee5a5c3e979f1b/5e80624f7d74bb810359a46c/codeblocks-20.03mingw-setup.exe
+# codeblocks: http://www.codeblocks.org/downloads/binaries/#imagesoswindows48pnglogo-microsoft-windows
+# sha256sum: 862479a6d45b8a36ffc09fc4c63cd0850155088e33bd8cad9075fb6fcb1f43c2
+https://download.fosshub.com/Protected/expiretime=1665456605;badurl=aHR0cHM6Ly93d3cuZm9zc2h1Yi5jb20vQ29kZS1CbG9ja3MuaHRtbA==/da6e2a1bb14c553179fbb0089958113463540694260026c2b3d0827e0993f427/5b85805cf9ee5a5c3e979f1b/5e80624f7d74bb810359a46c/codeblocks-20.03mingw-setup.exe
+
 
 # anaconda: https://www.anaconda.com/products/distribution/start-coding-immediately
 https://repo.anaconda.com/archive/Anaconda3-2022.05-Windows-x86_64.exe
