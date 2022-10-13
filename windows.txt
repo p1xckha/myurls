@@ -36,6 +36,9 @@ https://download.virtualbox.org/virtualbox/6.1.14/VirtualBox-6.1.14-140239-Win.e
 # vmplayer: https://www.vmware.com/jp/products/workstation-player/workstation-player-evaluation.html
 https://download3.vmware.com/software/WKST-PLAYER-1624/VMware-player-full-16.2.4-20089737.exe
 
+# DELL SupportAssist
+https://dl.dell.com/serviceability/eSupport/SupportAssistLauncher.exe
+
 #bios Vostro 3500 (BNVRYJ3): https://www.dell.com/support/home/ja-jp/product-support/product/vostro-15-3500-laptop/drivers
 https://dl.dell.com/FOLDER08980106M/1/Inspiron_3501_Vostro_3400_3401_3500_3501_1.19.0.exe
 
