@@ -54,6 +54,7 @@ https://downloadmirror.intel.com/723575/SetupRST.exe
 https://downloadmirror.intel.com/723575/f6flpy-x64.zip
 
 # Intel Management Engine: https://www.intel.com/content/www/us/en/download/682431/intel-management-engine-drivers-for-windows-10-and-windows-11.html
+# SHA1: 33F116D632593ADE733397087EE6EBB513B830FB
 https://downloadmirror.intel.com/733739/ME_SW_2216.16.0.2805.zip
 
 # nikon coolpix a1000: https://downloadcenter.nikonimglib.com/en/download/fw/441.html
