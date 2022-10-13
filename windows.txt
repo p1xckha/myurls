@@ -151,6 +151,9 @@ https://jp.leawosoft.net/download/leawo_com/online_blurayplayer_setup.exe
 https://download.betanews.com/download/1212419334-2/burnaware_free_15.9.exe
 https://ftp.kr.freebsd.org/pub/gimp/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe
 
+# EDCB
+https://github.com/xtne6f/EDCB/releases/download/work-plus-s-220921/EDCB-work-plus-s-bin.zip
+
 # vlc: https://www.videolan.org/vlc/download-windows.html
 # SHA-256 checksum: 514b0bf5ac82e7132ecac31da64c38fc85cd0ff76e2dcbcf904b6e2028c6749f
 https://get.videolan.org/vlc/3.0.17.4/win32/vlc-3.0.17.4-win32.exe
