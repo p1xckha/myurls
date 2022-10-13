@@ -111,6 +111,9 @@ https://libreoffice.astra.in.ua/libreoffice/stable/7.4.1/win/x86_64/LibreOffice_
 # atom: https://atom.io/
 https://atom-installer.github.com/v1.60.0/AtomSetup-x64.exe?s=1646703880&ext=.exe
 
+# github: https://desktop.github.com/
+https://desktop.githubusercontent.com/github-desktop/releases/3.1.1-a170ddea/GitHubDesktopSetup-x64.exe
+
 #################################
 # security
 #################################
