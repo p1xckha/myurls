@@ -1,5 +1,12 @@
+# Tplink Archer A6
 https://static.tp-link.com/upload/firmware/2021/202112/20211217/Archer%20A6(JP)_V3_211118.zip
+
+# Tplink Archer C20
 https://static.tp-link.com/2019/201903/20190312/Archer%20C20(JP)_V4_190213.zip
+
+# IO DATA WN-SX300FR/E: https://www.iodata.jp/lib/software/w/2169.htm#Windows%2010
+https://lib.iodata.jp/lib/soft/m/MagicalFinder_430.exe
+https://lib.iodata.jp/lib/soft/w/wnsx300fr_f103.exe
 
 # rt500mi: https://www.ntt-west.co.jp/kiki/download/flets/rt500mi/
 http://nttwest.ssdl1.smartstream.ne.jp/nttwest/flets/kiki/download/flets/rt500mi/PRRTRV-5X0MI08000004.bin
