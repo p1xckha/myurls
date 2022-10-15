@@ -77,6 +77,7 @@ https://download.cpuid.com/cpu-z/cpu-z_2.02-en.exe
 # mygica VT20 : https://www.mygica.com/support
 https://file.geniatech.com/mygica/Manual/VT20_user_manual_20210927.pdf
 https://file.geniatech.com/mygica/Driver/VT20_Driver_v4.3.5.7_20210908.zip
+# 2cf1f400cd5c4bec5d15e47c5234b3e8f4c2ad3e0ead9988a84bf1d584c280fa
 https://file.geniatech.com/mygica/Software/VT20_software.zip
 
 # PX-S1UD V2.0: http://www.plex-net.co.jp/product/px-s1udv2/download.html
