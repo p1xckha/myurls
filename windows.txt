@@ -75,6 +75,9 @@ https://portableapps.com/redir2/?a=PortableApps.comPlatform&s=s&d=pa&f=PortableA
 https://download.cpuid.com/cpu-z/cpu-z_2.02-en.exe
 
 # mygica VT20 : https://www.mygica.com/support
+https://file.geniatech.com/mygica/Manual/VT20_user_manual_20210927.pdf
+https://file.geniatech.com/mygica/Driver/VT20_Driver_v4.3.5.7_20210908.zip
+https://file.geniatech.com/mygica/Software/VT20_software.zip
 
 
 ################################
