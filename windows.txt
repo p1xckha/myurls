@@ -74,6 +74,9 @@ https://portableapps.com/redir2/?a=PortableApps.comPlatform&s=s&d=pa&f=PortableA
 # cpuz: https://www.cpuid.com/softwares/cpu-z.html
 https://download.cpuid.com/cpu-z/cpu-z_2.02-en.exe
 
+# mygica VT20 : https://www.mygica.com/support
+
+
 ################################
 # development
 ###############################
