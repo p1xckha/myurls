@@ -79,6 +79,10 @@ https://file.geniatech.com/mygica/Manual/VT20_user_manual_20210927.pdf
 https://file.geniatech.com/mygica/Driver/VT20_Driver_v4.3.5.7_20210908.zip
 https://file.geniatech.com/mygica/Software/VT20_software.zip
 
+# PX-S1UD V2.0: http://www.plex-net.co.jp/product/px-s1udv2/download.html
+http://plex-net.co.jp/plex/px-s1udv2/Driver_PX-S1UD_V2.zip
+http://plex-net.co.jp/plex/px-s1udv2/PX-S1UDV2-MANUAL_18.pdf
+
 
 ################################
 # development
