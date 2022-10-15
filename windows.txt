@@ -181,6 +181,11 @@ https://get.videolan.org/vlc/3.0.17.4/win32/vlc-3.0.17.4-win32.exe
 # inkscape: https://inkscape.org/release/
 https://media.inkscape.org/dl/resources/file/inkscape-1.2.1_2022-07-14_9c6d41e410-x64_5o3Ir4D.exe
 
+# K-Lite Codec Pack Basic: https://www.codecguide.com/download_k-lite_codec_pack_basic.htm
+# 971907334e0456c3f4d473a98bfee6aaeb6a9d62ed6756a1f0c01b0527faca06 *K-Lite_Codec_Pack_1720_Basic.exe
+https://files3.codecguide.com/K-Lite_Codec_Pack_1720_Basic.exe
+
+
 # imgburn: https://www.imgburn.com/index.php?act=download
 # CRC32: 1AF3CD36
 # MD5: 4BF2B8F4B46385BFDA4D65E423CFB868
