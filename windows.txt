@@ -203,6 +203,15 @@ https://dl.dvdfab.cn/download/58_12089_8d01f222/dvdfab12_online_12089.exe
 https://github.com/audacity/audacity/releases/download/Audacity-3.2.1/audacity-win-3.2.1-64bit.exe
 
 
+
+
+##################################
+# tool
+##################################
+
+# kiwix: https://www.kiwix.org/en/downloads/windows/
+https://download.kiwix.org/release/kiwix-desktop/kiwix-desktop_windows_x64.zip
+
 # calibre: https://calibre-ebook.com/download_windows
 https://download.calibre-ebook.com/6.6.1/calibre-64bit-6.6.1.msi
 
