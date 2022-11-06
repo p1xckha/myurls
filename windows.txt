@@ -92,6 +92,8 @@ http://plex-net.co.jp/plex/px-s1udv2/PX-S1UDV2-MANUAL_18.pdf
 # SCR3310-NTTCom: https://www.ntt.com/business/services/application/authentication/jpki/download2.html
 https://www.ntt.com/content/dam/nttcom/hq/jp/business/services/application/authentication/jpki/etc/SCR_130.exe
 
+# ch341a
+https://github.com/Keeyees/CH341A-Manual-NEW-JP/raw/main/CH341A%20Manual-NEW-JP.zip
 
 ################################
 # development
