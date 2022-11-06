@@ -1,0 +1,138 @@
+############################## 
+# internet
+###############################
+
+# protonvpn
+https://protonvpn.com/download/ProtonVPN_win_v2.2.0.exe
+
+
+# torbrowser
+https://www.torproject.org/dist/torbrowser/11.5.7/torbrowser-install-win64-11.5.7_en-US.exe
+https://www.torproject.org/dist/torbrowser/11.5.7/torbrowser-install-win64-11.5.7_en-US.exe.asc
+
+
+
+##################################
+# system
+#################################
+
+
+# DELL SupportAssist
+https://dl.dell.com/serviceability/eSupport/SupportAssistLauncher.exe
+
+#bios Vostro 3500 (BNVRYJ3): https://www.dell.com/support/home/ja-jp/product-support/product/vostro-15-3500-laptop/drivers
+https://dl.dell.com/FOLDER08980106M/1/Inspiron_3501_Vostro_3400_3401_3500_3501_1.19.0.exe
+
+#bios Inspiron 15 Gaming 7567(C3Y5L22)
+https://dl.dell.com/FOLDER07782958M/1/Inspiron_14_15_7000_Gaming_1.15.0.exe
+
+#bios Dell Studio 1555
+#https://www.dell.com/support/home/en-us/product-support/product/studio-1555/drivers
+https://dl.dell.com/bios/R301502.exe
+
+# intel rapid storage: https://www.intel.co.jp/content/www/jp/ja/download/15667/intel-rapid-storage-technology-intel-rst-user-interface-and-driver.html
+https://downloadmirror.intel.com/723575/SetupRST.exe
+https://downloadmirror.intel.com/723575/SetupOptaneMemory.exe
+https://downloadmirror.intel.com/723575/f6flpy-x64.zip
+https://dl.dell.com/FOLDER08267991M/3/Intel-Rapid-Storage-Technology-Driver_6D2KD_WIN64_18.7.1.1003_A04.EXE
+
+
+# Intel Management Engine: https://www.intel.com/content/www/us/en/download/682431/intel-management-engine-drivers-for-windows-10-and-windows-11.html
+# SHA1: 33F116D632593ADE733397087EE6EBB513B830FB
+https://downloadmirror.intel.com/733739/ME_SW_2216.16.0.2805.zip
+
+
+# cpuz: https://www.cpuid.com/softwares/cpu-z.html
+https://download.cpuid.com/cpu-z/cpu-z_2.02-en.exe
+
+# mygica VT20 : https://www.mygica.com/support
+https://file.geniatech.com/mygica/Manual/VT20_user_manual_20210927.pdf
+https://file.geniatech.com/mygica/Driver/VT20_Driver_v4.3.5.7_20210908.zip
+# 2cf1f400cd5c4bec5d15e47c5234b3e8f4c2ad3e0ead9988a84bf1d584c280fa
+https://file.geniatech.com/mygica/Software/VT20_software.zip
+
+# PX-S1UD V2.0: http://www.plex-net.co.jp/product/px-s1udv2/download.html
+http://plex-net.co.jp/plex/px-s1udv2/Driver_PX-S1UD_V2.zip
+http://plex-net.co.jp/plex/px-s1udv2/PX-S1UDV2-MANUAL_18.pdf
+
+
+# SCR3310-NTTCom: https://www.ntt.com/business/services/application/authentication/jpki/download2.html
+https://www.ntt.com/content/dam/nttcom/hq/jp/business/services/application/authentication/jpki/etc/SCR_130.exe
+
+
+# ch341a
+https://github.com/Keeyees/CH341A-Manual-NEW-JP/raw/main/CH341A%20Manual-NEW-JP.zip
+
+
+################################
+# development
+###############################
+
+
+# Microsoft Visual C++ Redistributable: https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170
+https://download.visualstudio.microsoft.com/download/pr/7331f052-6c2d-4890-8041-8058fee5fb0f/CE6593A1520591E7DEA2B93FD03116E3FC3B3821A0525322B0A430FAA6B3C0B4/VC_redist.x64.exe
+https://download.visualstudio.microsoft.com/download/pr/7331f052-6c2d-4890-8041-8058fee5fb0f/CF92A10C62FFAB83B4A2168F5F9A05E5588023890B5C0CC7BA89ED71DA527B0F/VC_redist.x86.exe
+
+# notepad++: https://notepad-plus-plus.org/downloads/v8.4.6/
+https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.6/npp.8.4.6.Installer.x64.exe
+
+# atom: https://atom.io/
+https://atom-installer.github.com/v1.60.0/AtomSetup-x64.exe?s=1646703880&ext=.exe
+
+# git: https://git-scm.com/download/win
+https://github.com/git-for-windows/git/releases/download/v2.38.0.windows.1/Git-2.38.0-64-bit.exe
+
+# github: https://desktop.github.com/
+https://desktop.githubusercontent.com/github-desktop/releases/3.1.1-a170ddea/GitHubDesktopSetup-x64.exe
+
+#################################
+# security
+#################################
+
+# gpg4win: https://www.gpg4win.org/get-gpg4win.html
+https://files.gpg4win.org/gpg4win-4.0.4.exe
+
+
+##################################
+# media
+##################################
+
+# DVD writing
+https://download.betanews.com/download/1212419334-2/burnaware_free_15.9.exe
+
+# bluray player
+https://dl.dvdfab.cn/download/31_7028_33d1366b/playerfab_fod_player_7028.exe
+https://jp.leawosoft.net/download/leawo_com/online_blurayplayer_setup.exe
+
+
+# EDCB
+https://github.com/xtne6f/EDCB/releases/download/work-plus-s-220921/EDCB-work-plus-s-bin.zip
+
+# vlc: https://www.videolan.org/vlc/download-windows.html
+# SHA-256 checksum: 514b0bf5ac82e7132ecac31da64c38fc85cd0ff76e2dcbcf904b6e2028c6749f
+https://vlc.letterboxdelivery.org/vlc/3.0.17.4/win32/vlc-3.0.17.4-win32.exe
+
+# inkscape: https://inkscape.org/release/
+https://inkscape.org/gallery/item/34668/inkscape-1.2.1_2022-07-14_9c6d41e410-x64_qPmYh2W.msi
+https://media.inkscape.org/media/resources/sigs/inkscape-1.2.1_2022-07-14_9c6d41e410-x64.msi_DWQsXVt.sha256
+
+# K-Lite Codec Pack Basic: https://www.codecguide.com/download_k-lite_codec_pack_basic.htm
+# 971907334e0456c3f4d473a98bfee6aaeb6a9d62ed6756a1f0c01b0527faca06 *K-Lite_Codec_Pack_1720_Basic.exe
+https://files3.codecguide.com/K-Lite_Codec_Pack_1720_Basic.exe
+
+# gimp
+https://ftp.kr.freebsd.org/pub/gimp/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe
+
+
+
+##################################
+# tool
+##################################
+
+# kiwix: https://www.kiwix.org/en/downloads/windows/
+https://download.kiwix.org/release/kiwix-desktop/kiwix-desktop_windows_x64.zip
+
+
+
+
+
