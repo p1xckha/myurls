@@ -3,11 +3,12 @@
 ###############################
 
 # protonvpn
-https://protonvpn.com/download/ProtonVPN_win_v2.0.6.exe
+https://protonvpn.com/download/ProtonVPN_win_v2.2.0.exe
 
 # torbrowser
-https://www.torproject.org/dist/torbrowser/11.5.2/torbrowser-install-win64-11.5.2_en-US.exe
-https://www.torproject.org/dist/torbrowser/11.5.2/torbrowser-install-win64-11.5.2_en-US.exe.asc
+https://www.torproject.org/dist/torbrowser/11.5.7/torbrowser-install-win64-11.5.7_en-US.exe
+https://www.torproject.org/dist/torbrowser/11.5.7/torbrowser-install-win64-11.5.7_en-US.exe.asc
+
 
 # lynx: https://osdn.net/projects/lynx-win32-pata/downloads/68338/Lynx289dev19THjp.exe/
 https://free.nchc.org.tw/osdn//lynx-win32-pata/68338/Lynx289dev19THjp.exe
@@ -47,11 +48,14 @@ https://dl.dell.com/FOLDER07782958M/1/Inspiron_14_15_7000_Gaming_1.15.0.exe
 
 #bios Dell Studio 1555
 #https://www.dell.com/support/home/en-us/product-support/product/studio-1555/drivers
-https://dl.dell.com/utility/DSS_UTIL_WIN_R259999.EXE
+https://dl.dell.com/bios/R301502.exe
 
 # intel rapid storage: https://www.intel.co.jp/content/www/jp/ja/download/15667/intel-rapid-storage-technology-intel-rst-user-interface-and-driver.html
 https://downloadmirror.intel.com/723575/SetupRST.exe
+https://downloadmirror.intel.com/723575/SetupOptaneMemory.exe
 https://downloadmirror.intel.com/723575/f6flpy-x64.zip
+https://dl.dell.com/FOLDER08267991M/3/Intel-Rapid-Storage-Technology-Driver_6D2KD_WIN64_18.7.1.1003_A04.EXE
+
 
 # Intel Management Engine: https://www.intel.com/content/www/us/en/download/682431/intel-management-engine-drivers-for-windows-10-and-windows-11.html
 # SHA1: 33F116D632593ADE733397087EE6EBB513B830FB
@@ -147,11 +151,8 @@ https://github.com/keepassxreboot/keepassxc/releases/download/2.7.1/KeePassXC-2.
 https://github.com/keepassxreboot/keepassxc/releases/download/2.7.1/KeePassXC-2.7.1-Win64.msi.DIGEST
 https://github.com/keepassxreboot/keepassxc/releases/download/2.7.1/KeePassXC-2.7.1-Win64.msi.sig
 
-# vc_redist x64: https://learn.microsoft.com/ja-jp/cpp/windows/latest-supported-vc-redist?view=msvc-170
-https://download.visualstudio.microsoft.com/download/pr/7331f052-6c2d-4890-8041-8058fee5fb0f/CE6593A1520591E7DEA2B93FD03116E3FC3B3821A0525322B0A430FAA6B3C0B4/VC_redist.x64.exe
-
 # gpg4win: https://www.gpg4win.org/get-gpg4win.html
-https://files.gpg4win.org/gpg4win-4.0.3.exe
+https://files.gpg4win.org/gpg4win-4.0.4.exe
 
 # veracrypt: https://www.veracrypt.fr/en/Downloads.html
 https://launchpad.net/veracrypt/trunk/1.25.9/+download/VeraCrypt%20Setup%201.25.9.exe
@@ -181,10 +182,12 @@ https://github.com/xtne6f/EDCB/releases/download/work-plus-s-220921/EDCB-work-pl
 
 # vlc: https://www.videolan.org/vlc/download-windows.html
 # SHA-256 checksum: 514b0bf5ac82e7132ecac31da64c38fc85cd0ff76e2dcbcf904b6e2028c6749f
-https://get.videolan.org/vlc/3.0.17.4/win32/vlc-3.0.17.4-win32.exe
+https://vlc.letterboxdelivery.org/vlc/3.0.17.4/win32/vlc-3.0.17.4-win32.exe
 
 # inkscape: https://inkscape.org/release/
-https://media.inkscape.org/dl/resources/file/inkscape-1.2.1_2022-07-14_9c6d41e410-x64_5o3Ir4D.exe
+https://inkscape.org/gallery/item/34668/inkscape-1.2.1_2022-07-14_9c6d41e410-x64_qPmYh2W.msi
+https://media.inkscape.org/media/resources/sigs/inkscape-1.2.1_2022-07-14_9c6d41e410-x64.msi_DWQsXVt.sha256
+
 
 # K-Lite Codec Pack Basic: https://www.codecguide.com/download_k-lite_codec_pack_basic.htm
 # 971907334e0456c3f4d473a98bfee6aaeb6a9d62ed6756a1f0c01b0527faca06 *K-Lite_Codec_Pack_1720_Basic.exe
@@ -206,8 +209,10 @@ https://dl.dvdfab.cn/download/58_12089_8d01f222/dvdfab12_online_12089.exe
 # SHA256 Checksum: 35a318c716f2579bb81229c04375bc21cac878ad011d5d66d227f236e7d73ce6
 https://github.com/audacity/audacity/releases/download/Audacity-3.2.1/audacity-win-3.2.1-64bit.exe
 
-# image editor
+# gimp
 https://ftp.kr.freebsd.org/pub/gimp/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe
+
+
 
 
 ##################################
