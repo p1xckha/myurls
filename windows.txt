@@ -168,9 +168,13 @@ https://bits.avcdn.net/productfamily_ANTIVIRUS/insttype_FREE/platform_WIN/instal
 # media
 ##################################
 
-https://jp.leawosoft.net/download/leawo_com/online_blurayplayer_setup.exe
+# DVD writing
 https://download.betanews.com/download/1212419334-2/burnaware_free_15.9.exe
-https://ftp.kr.freebsd.org/pub/gimp/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe
+
+# bluray player
+https://dl.dvdfab.cn/download/31_7028_33d1366b/playerfab_fod_player_7028.exe
+https://jp.leawosoft.net/download/leawo_com/online_blurayplayer_setup.exe
+
 
 # EDCB
 https://github.com/xtne6f/EDCB/releases/download/work-plus-s-220921/EDCB-work-plus-s-bin.zip
@@ -202,7 +206,8 @@ https://dl.dvdfab.cn/download/58_12089_8d01f222/dvdfab12_online_12089.exe
 # SHA256 Checksum: 35a318c716f2579bb81229c04375bc21cac878ad011d5d66d227f236e7d73ce6
 https://github.com/audacity/audacity/releases/download/Audacity-3.2.1/audacity-win-3.2.1-64bit.exe
 
-
+# image editor
+https://ftp.kr.freebsd.org/pub/gimp/pub/gimp/v2.10/windows/gimp-2.10.32-setup-1.exe
 
 
 ##################################
