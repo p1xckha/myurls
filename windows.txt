@@ -61,6 +61,9 @@ https://dl.dell.com/FOLDER08267991M/3/Intel-Rapid-Storage-Technology-Driver_6D2K
 # SHA1: 33F116D632593ADE733397087EE6EBB513B830FB
 https://downloadmirror.intel.com/733739/ME_SW_2216.16.0.2805.zip
 
+# adata ultimate su630 firmware
+https://webapi3.adata.com/storage/support/ADATA_SSDToolBoxSetup.5.0.16.zip
+
 # nikon coolpix a1000: https://downloadcenter.nikonimglib.com/en/download/fw/441.html
 https://download.nikonimglib.com/archive5/Krywz00qZ6W6055Novk27Sj77f15/F-A1000-V14W.exe
 
